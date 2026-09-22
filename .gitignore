@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+myaienv/
+.env
+.DS_Store
+
+# Generated vector index
+vector_db/*.faiss
+vector_db/*.json
+
+# Logs
+logs/*.log
+logs/*.txt

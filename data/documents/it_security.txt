@@ -1,0 +1,5 @@
+IT Security Policy
+
+Multi-factor authentication is required for corporate email, VPN, and other protected enterprise systems. Passwords must not be shared and must follow the corporate password standard.
+
+Employees must report suspected phishing, malware, or unauthorized access to the IT security team immediately. Company laptops must use disk encryption and screen lock protection.
